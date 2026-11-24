@@ -1,0 +1,17 @@
+{
+  "name": "SmartBiz Africa",
+  "short_name": "SmartBiz",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#102a43",
+  "description": "Discover services and grow your business across Africa.",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
